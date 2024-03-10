@@ -47,9 +47,9 @@ public class Seating {
 	}
 
         // Print finalArray for visualization
-        System.out.println("********************* BLACK BOARD ********************");
-        System.out.println("^ ^ ^ ^ ^ ^  ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^");
-        System.out.println("              BOYS        BOYS(1-4)/GIRLS(5-6)      GIRLS  ");
+        System.out.println("*************************** BLACK BOARD **************************");
+        System.out.println("^ ^ ^ ^ ^ ^  ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^");
+        System.out.println("              BOYS          BOYS(1-4)/GIRLS(5-6)      GIRLS  ");
         for (int i = 0; i < 6; i++) {
             System.out.print(i+1 + "-->" + "\t");
             for (int j = 0; j < 12; j++) {
