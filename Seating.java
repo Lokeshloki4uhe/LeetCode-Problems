@@ -1,3 +1,4 @@
+//Seating Arrangement of 66 Students in a Classroom
 import java.util.*;
 
 public class Seating {
